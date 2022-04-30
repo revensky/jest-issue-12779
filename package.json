@@ -1,0 +1,10 @@
+{
+  "name": "jest-issue-12779",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Eduardo Ribeiro Rezende <eduardorbr7@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "27.5.1"
+  }
+}
